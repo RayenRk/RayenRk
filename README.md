@@ -33,15 +33,15 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 
 ## 🚀 My Recent Projects
 
-### [Kanban Board](https://github.com/RayenRk/kanban-project)
-- **Description**:  This app helps you organize your tasks in a visually appealing and intuitive way, following the Kanban methodology.
-- **Technologies Used**: Angular 17, Express, Node.js, MongoDB.
-- **Highlights**: Still working on the timeline and notifications feature.
-
 ### [Rigma](https://github.com/RayenRk/rigma)
 - **Description**: Rigma is a canvas and a collaborative design tool inspired by Figma.
 - **Technologies Used**: Next.js, Tailwind CSS, Liveblocks, Fabric.js.
 - **Highlights**: Dont forget the spam fire emojis🔥in the canvas.
+
+### [Kanban Board](https://github.com/RayenRk/kanban-project)
+- **Description**:  This app helps you organize your tasks in a visually appealing and intuitive way, following the Kanban methodology.
+- **Technologies Used**: Angular 17, Express, Node.js, MongoDB.
+- **Highlights**: Still working on the timeline and notifications feature.
 
 ## 📈 GitHub Stats
 
