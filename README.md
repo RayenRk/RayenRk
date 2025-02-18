@@ -32,6 +32,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 
 ## 🚀 My Recent Projects
 
+### [PlantZ](https://github.com/RayenRk/plantZ)
+- **Description**: PlantZ is a web application that detects plant diseases by analyzing images using Artificial Intelligence.
+- **Technologies Used**: React, Node.js, Flask, Postgresql, Kaggle, Docker, Kubernetes.
+- **Highlights**: I am working on the mobile version using the Ionic framework.
+
 ### [Rigma](https://github.com/RayenRk/rigma)
 - **Description**: Rigma is a canvas and a collaborative design tool inspired by Figma.
 - **Technologies Used**: Next.js, Tailwind CSS, Liveblocks, Fabric.js.
