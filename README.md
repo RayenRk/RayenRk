@@ -1,70 +1,97 @@
-# 👋 Hello, I'm Rayen Rakkad
+# 👋 Hey, I'm Rayen Rakkad
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in Full-Stack Development and Cloud Computing. I love building innovative solutions and contributing to open-source projects. Here you'll find a collection of my work, including personal projects and collaborative projects.
-
-## 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring-boot)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-
-## 🚀 My Recent Projects
-
-### [PlantZ](https://github.com/RayenRk/plantZ)
-- **Description**: PlantZ is a web application that detects plant diseases by analyzing images using Artificial Intelligence.
-- **Technologies Used**: React, Node.js, Flask, Postgresql, Kaggle, Docker, Kubernetes.
-- **Highlights**: I am working on the mobile version using the Ionic framework.
-
-### [Rigma](https://github.com/RayenRk/rigma)
-- **Description**: Rigma is a canvas and a collaborative design tool inspired by Figma.
-- **Technologies Used**: Next.js, Tailwind CSS, Liveblocks, Fabric.js.
-- **Highlights**: Dont forget the spam fire emojis🔥in the canvas.
-
-### [Kanban Board](https://github.com/RayenRk/kanban-project)
-- **Description**:  This app helps you organize your tasks in a visually appealing and intuitive way, following the Kanban methodology.
-- **Technologies Used**: Angular 17, Express, Node.js, MongoDB.
-- **Highlights**: Still working on the timeline and notifications feature.
-
-## 📈 GitHub Stats
-
-![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayenRk&show_icons=true&theme=radical)
-
-## 📝 Portfolio & Blog
-
-- [My Portfolio Website](https://rayenrakkad.dev)
-- My Blog is still under construction 😄
-
-## 📫 How to reach me
-
-- LinkedIn: [linkedin.com/rayen-rakkad](https://linkedin.com/in/rayen-rakkad)
-- Email: [rakkadrayen@gmail.com](mailto:rakkadrayen@gmail.com)
-
-## ⚡ Fun Fact
-
-I still have the dream to be a Professional Boxing Champion one day🥊.
+Passionate software engineer focused on **Full-Stack Development** and **Cloud Computing**. I love building innovative solutions and contributing to open-source projects.
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects.
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=oracle)
+![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=yellow)
+
+**Frameworks & Libraries**
+
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-0d1117?style=flat-square&logo=angular)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0d1117?style=flat-square&logo=spring-boot)
+![Symfony](https://img.shields.io/badge/-Symfony-0d1117?style=flat-square&logo=symfony)
+![.NET](https://img.shields.io/badge/-.NET-0d1117?style=flat-square&logo=dotnet)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d1117?style=flat-square&logo=tailwind-css)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-0d1117?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-0d1117?style=flat-square&logo=ansible)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)
+![Android](https://img.shields.io/badge/-Android-0d1117?style=flat-square&logo=android)
+
+---
+
+## 🚀 Recent Projects
+
+### 🌿 [PlantZ](https://github.com/RayenRk/plantZ)
+> AI-powered web app that detects plant diseases by analyzing images.
+
+**Stack:** React · Node.js · Flask · PostgreSQL · Docker · Kubernetes · Kaggle  
+📱 Currently building the mobile version with Ionic.
+
+---
+
+### 🎨 [Rigma](https://github.com/RayenRk/rigma)
+> A collaborative canvas and design tool — think Figma, but built from scratch.
+
+**Stack:** Next.js · Tailwind CSS · Liveblocks · Fabric.js  
+🔥 Don't forget to spam the fire emojis on the canvas.
+
+---
+
+### 📋 [Kanban Board](https://github.com/RayenRk/kanban-project)
+> Task management app following the Kanban methodology — clean, intuitive, visual.
+
+**Stack:** Angular 17 · Express · Node.js · MongoDB  
+🚧 Timeline and notifications feature in progress.
+
+---
+
+## 📈 GitHub Stats
+
+[![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayenRk&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/RayenRk)
+
+> ⚠️ If the stats card above isn't loading, it's a known issue with the public Vercel instance being rate-limited.
+> **Fix:** [Deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) in ~5 minutes for a reliable alternative.
+
+---
+
+## 🌐 Portfolio & Contact
+
+| | |
+|---|---|
+| 🌍 Portfolio | [rayenrakkad.dev](https://rayenrakkad.dev) |
+| 💼 LinkedIn | [linkedin.com/in/rayen-rakkad](https://linkedin.com/in/rayen-rakkad) |
+| 📧 Email | [rakkadrayen@gmail.com](mailto:rakkadrayen@gmail.com) |
+| 📝 Blog | Coming soon 😄 |
+
+---
+
+## ⚡ Fun Fact
+
+Still chasing the dream of becoming a Professional Boxing Champion one day. 🥊
+
+---
+
+*Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate.*
