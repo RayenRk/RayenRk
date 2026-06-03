@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 
 ## 📝 Portfolio & Blog
 
-- [My Portfolio Website](https://rayenrakkad.me)
+- [My Portfolio Website](https://rayenrakkad.dev)
 - My Blog is still under construction 😄
 
 ## 📫 How to reach me
